@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "employee-manager-react-e0dfc",
+    "staging": "employee-manager-react-e0dfc"
+  }
+}
